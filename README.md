@@ -23,6 +23,7 @@ The database consists of the following tables:
 ## 📁 Files in this Repository
 - schema.sql → Database structure and sample data
 - queries.sql → SQL queries for analysis
+- data.sql - sample data
 
 ## 🚀 Outcome
 This project demonstrates strong SQL skills including:
@@ -33,4 +34,4 @@ This project demonstrates strong SQL skills including:
 
 ---
 
-🔥 This is my first step towards becoming a data analyst / AI engineer.
+🔥 This project showcase my ability to analyze real-world business data using SQL and extract meaningful insights.
